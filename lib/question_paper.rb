@@ -1,3 +1,5 @@
 class QuestionPaper
-  # To change this template use File | Settings | File Templates.
+  def questions
+       questions=[]
+  end
 end
